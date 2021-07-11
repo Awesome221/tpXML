@@ -119,5 +119,4 @@ function rechercher($xml){
                     }
                   }
 }
-rechercher('cdcatalogjs.xml');     
-?>
+rechercher('cdcatalogjs.xml');
