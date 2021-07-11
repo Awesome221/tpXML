@@ -1,0 +1,20 @@
+
+cd{
+    display:block;
+    margin-bottom:10px;
+}
+
+table {
+  width: 100%;
+}
+th {
+  background-color: green;
+  color: black;
+}
+
+table, th, td {
+  border: 1px dashed black;
+}
+td {
+  text-align: center;
+}
