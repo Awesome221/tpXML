@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 function afficherXml($xml, $xsl, $id = ""){
 	$xmlDoc = new DOMDocument();
 	$xmlDoc->load($xml);
@@ -120,5 +120,4 @@ function rechercher($xml){
                   }
 }
 rechercher('cdcatalogjs.xml');     
-
 ?>
